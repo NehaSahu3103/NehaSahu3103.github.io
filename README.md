@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neha Sahu</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/05/93/82/76/1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg>
+<img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/05/93/82/76/1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehasahu3103&label=Profile%20views&color=0e75b6&style=flat" alt="nehasahu3103" /> </p>
 
