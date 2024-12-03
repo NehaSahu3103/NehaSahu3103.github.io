@@ -1,4 +1,4 @@
-<h1 align="center"> < Hello Coders🚀, I'm Khushbu <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+<h1 align="center"> < Hello Coders🚀, I'm Neha<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
 
 
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
@@ -18,9 +18,9 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
   
-- 💬 Ask me about **Java, Data Structure, Html, CSS, JS, ReactJS, NodeJS, Linux**
+- 💬 Ask me about **Java, Data Structure, Html, CSS, JS, ReactJS, NodeJS**
 
-- 📫 How to reach me **khushbudadhe01@gmail.com**
+- 📫 How to reach me **nehasahu623103@gmail.com**
 
 - ⚡ Fun fact: **It’s all 0’s and 1’s**
 
